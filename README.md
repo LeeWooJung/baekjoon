@@ -1,4 +1,4 @@
-# 백준 문제 풀이([JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white))
+# 백준 문제 풀이 https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white
 Baekjoon JAVA solution :notes:
 
 [Explanation Page](https://lunareclipse000.wordpress.com/)
