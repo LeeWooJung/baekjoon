@@ -39,8 +39,8 @@ public class Main {
     /*
      * @function QuickSort
      * @param   array   정렬할 배열
-     * @param   low     Quick Sort를 적용할 배열의 왼쪽 끝 인덱스
-     * @param   high    Quick Sort를 적용할 배열의 오른쪽 끝 인덱스
+     * @param   left     Quick Sort를 적용할 배열의 왼쪽 끝 인덱스
+     * @param   right    Quick Sort를 적용할 배열의 오른쪽 끝 인덱스
      * 
      * Quick Sort (Pivot : Middle)
      * 
@@ -54,17 +54,18 @@ public class Main {
      * - Unstable Sort
      */
 
-    private static void QuickSort(int[] array, int low, int high){
-    
-        if (low >= high) return;
+    private static void QuickSort(int[] array, int left, int right){
 
-        int pivot_idx = partition(array, low, high);
-        QuickSort(array, low, pivot_idx);
-        QuickSort(array, pivot_idx+1, high);
+        if(left >= right) return;
+
+        int pivot_idx = partition(array, left, right);
+
+        QuickSort(array, left, pivot_idx - 1);
+        QuickSort(array, pivot_idx, right);
     }
 
     /*
-     * @functino partition
+     * @function partition
      * @param   array   분할하기 위한 배열(왼쪽은 pivot보다 작은 값, 오른쪽은 pivot보다 큰 값)
      * @param   left    분할하기 위한 배열의 맨 좌측 인덱스
      * @param   right   분할하기 위한 배열의 맨 우측 인덱스
@@ -80,23 +81,19 @@ public class Main {
      */
 
     private static int partition(int[] array, int left, int right){
-        int low = left - 1;
-        int high = right + 1;
-        int pivot = array[(low+high)/2]; // Middle Pivot
 
-        while(true) {
-            do {
-                low++;
-            } while(array[low] < pivot);
+        int pivot = array[(left + right)/2];
 
-            do {
-                high--;
-            } while(array[high] > pivot && low <= high);
+        while(left <= right) {
 
-            if(low >= high) return high;
+            while(array[left] < pivot) left++;
+            while(array[right] > pivot) right--;
 
-            swap(array, low, high);
+            if(left > right) break;
+            swap(array, left++, right--);
         }
+
+        return left;
     }
 
     private static void swap(int[] array, int first, int second){
