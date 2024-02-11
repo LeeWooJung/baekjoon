@@ -5,24 +5,25 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-* [1181](https://lunareclipse000.wordpress.com/2024/01/05/1181/)
+* [2587](https://lunareclipse000.wordpress.com/2023/12/31/2587/) : Selection Sort
 
-* [1427](https://lunareclipse000.wordpress.com/2024/01/05/1427/)
+* [2750](https://lunareclipse000.wordpress.com/2023/12/28/2750/) : Insertion Sort
 
-* [2587](https://lunareclipse000.wordpress.com/2023/12/31/2587/)
+* [25305](https://lunareclipse000.wordpress.com/2023/12/31/25305/) : Bubble Sort
 
-* [2750](https://lunareclipse000.wordpress.com/2023/12/28/2750/)
+* [2751](https://lunareclipse000.wordpress.com/2023/12/31/2751/) : Merge Sort
 
-* [2751](https://lunareclipse000.wordpress.com/2023/12/31/2751/)
+* [1427](https://lunareclipse000.wordpress.com/2024/01/05/1427/) : Conting Sort
 
-* [10814](https://lunareclipse000.wordpress.com/2024/01/05/10814/)//
+* 10989: 작성중 : Quick Sort
 
-* 10989: 작성중
+* [11650](https://lunareclipse000.wordpress.com/2024/01/02/11650/) : Arrays.sort with Comparator(Overriding, Lambda)
 
-* [11650](https://lunareclipse000.wordpress.com/2024/01/02/11650/)
+* [1181](https://lunareclipse000.wordpress.com/2024/01/05/1181/) : implements Comparable Interface
 
-* [11651](https://lunareclipse000.wordpress.com/2024/01/05/11651/)
+* [10814](https://lunareclipse000.wordpress.com/2024/01/05/10814/) : implements Comparable Interface
 
-* [18870](https://lunareclipse000.wordpress.com/2024/01/07/18870/)
+* [11651](https://lunareclipse000.wordpress.com/2024/01/05/11651/) : implements Comparable Interface
 
-* [25305](https://lunareclipse000.wordpress.com/2023/12/31/25305/)
+* [18870](https://lunareclipse000.wordpress.com/2024/01/07/18870/) : implements Comparable Interface
+
