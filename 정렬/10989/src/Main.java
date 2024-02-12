@@ -60,8 +60,8 @@ public class Main {
 
         int pivot_idx = partition(array, left, right);
 
-        QuickSort(array, left, pivot_idx - 1);
-        QuickSort(array, pivot_idx, right);
+        QuickSort(array, left, pivot_idx);
+        QuickSort(array, pivot_idx + 1, right);
     }
 
     /*
@@ -84,16 +84,20 @@ public class Main {
 
         int pivot = array[(left + right)/2];
 
-        while(left <= right) {
+        while(true) {
 
             while(array[left] < pivot) left++;
             while(array[right] > pivot) right--;
 
-            if(left > right) break;
-            swap(array, left++, right--);
+            if(left < right) {
+                swap(array, left, right);
+                if(array[left] == pivot) left++;
+                if(array[right] == pivot) right--;
+            }
+            else break;
         }
 
-        return left;
+        return right;
     }
 
     private static void swap(int[] array, int first, int second){
