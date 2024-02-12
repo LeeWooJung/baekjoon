@@ -5,32 +5,32 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-* [1725](https://lunareclipse000.wordpress.com/2024/01/15/1725/)
+:ballot_box_with_check: [1725](https://lunareclipse000.wordpress.com/2024/01/15/1725/)
 
-* [2164](https://lunareclipse000.wordpress.com/2024/01/09/2164/)
+:ballot_box_with_check: [2164](https://lunareclipse000.wordpress.com/2024/01/09/2164/)
 
-* [2346](https://lunareclipse000.wordpress.com/2024/01/11/2346/)
+:ballot_box_with_check: [2346](https://lunareclipse000.wordpress.com/2024/01/11/2346/)
 
-* [3015](https://lunareclipse000.wordpress.com/2024/01/16/3015/)
+:ballot_box_with_check: [3015](https://lunareclipse000.wordpress.com/2024/01/16/3015/)
 
-* [4949](https://lunareclipse000.wordpress.com/2024/01/08/4949/)
+:ballot_box_with_check: [4949](https://lunareclipse000.wordpress.com/2024/01/08/4949/)
 
-* [9012](https://lunareclipse000.wordpress.com/2024/01/08/9012/)
+:ballot_box_with_check: [9012](https://lunareclipse000.wordpress.com/2024/01/08/9012/)
 
-* [9935](https://lunareclipse000.wordpress.com/2024/01/12/9935/)
+:ballot_box_with_check: [9935](https://lunareclipse000.wordpress.com/2024/01/12/9935/)
 
-* [10773](https://lunareclipse000.wordpress.com/2024/01/08/10773/)
+:ballot_box_with_check: [10773](https://lunareclipse000.wordpress.com/2024/01/08/10773/)
 
-* [11866](https://lunareclipse000.wordpress.com/2024/01/09/11866/)
+:ballot_box_with_check: [11866](https://lunareclipse000.wordpress.com/2024/01/09/11866/)
 
-* [12789](https://lunareclipse000.wordpress.com/2024/01/09/12789/)
+:ballot_box_with_check: [12789](https://lunareclipse000.wordpress.com/2024/01/09/12789/)
 
-* [17298, 17299](https://lunareclipse000.wordpress.com/2024/01/12/17298-17299/)
+:ballot_box_with_check: [17298, 17299](https://lunareclipse000.wordpress.com/2024/01/12/17298-17299/)
 
-* [18258](https://lunareclipse000.wordpress.com/2024/01/09/18258/)
+:ballot_box_with_check: [18258](https://lunareclipse000.wordpress.com/2024/01/09/18258/)
 
-* [24511](https://lunareclipse000.wordpress.com/2024/01/11/24511/)
+:ballot_box_with_check: [24511](https://lunareclipse000.wordpress.com/2024/01/11/24511/)
 
-* [28278](https://lunareclipse000.wordpress.com/2024/01/07/28278/)
+:ballot_box_with_check: [28278](https://lunareclipse000.wordpress.com/2024/01/07/28278/)
 
-* [28279](https://lunareclipse000.wordpress.com/2024/01/11/28279/)
+:ballot_box_with_check: [28279](https://lunareclipse000.wordpress.com/2024/01/11/28279/)
