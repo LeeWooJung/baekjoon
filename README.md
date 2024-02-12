@@ -31,6 +31,6 @@ Baekjoon JAVA solution :notes:
 
 -----
 
-:triangular_flag_on_post: 유니온 파인드 - 작성중
+:mount_fuji: 유니온 파인드 - 작성중
 
 -----
