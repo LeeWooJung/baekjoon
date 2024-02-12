@@ -15,7 +15,7 @@ Baekjoon JAVA solution :notes:
 
 * [1427](https://lunareclipse000.wordpress.com/2024/01/05/1427/) : Conting Sort
 
-* 10989: 작성중 : Quick Sort
+* [10989](https://lunareclipse000.wordpress.com/2024/02/12/%eb%b0%b1%ec%a4%80-10989-java/): Quick Sort
 
 * [11650](https://lunareclipse000.wordpress.com/2024/01/02/11650/) : Arrays.sort with Comparator(Overriding, Lambda)
 
