@@ -5,10 +5,10 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-* 1717 : 작성중
+:ballot_box_with_check: 1717 : 작성중
 
-* 1976 : 작성중
+:ballot_box_with_check: 1976 : 작성중
 
-* 4195 : 푸는중
+:black_square_button: 4195 : 푸는중
 
-* 20040 : 푸는중
+:black_square_button: 20040 : 푸는중
