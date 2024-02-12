@@ -5,19 +5,19 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-* [1269](https://lunareclipse000.wordpress.com/2024/01/18/1269/) : 대칭 차집합, HashMap
+:ballot_box_with_check: [1269](https://lunareclipse000.wordpress.com/2024/01/18/1269/) : 대칭 차집합, HashMap
 
-* [1620](https://lunareclipse000.wordpress.com/2024/01/18/1620/) : 나는야 포켓몬 마스터 이다솜, HashMap
+:ballot_box_with_check: [1620](https://lunareclipse000.wordpress.com/2024/01/18/1620/) : 나는야 포켓몬 마스터 이다솜, HashMap
 
-* [1764](https://lunareclipse000.wordpress.com/2024/01/18/1764/) : 듣보잡, TreeMap, Comparator, Lambda
+:ballot_box_with_check: [1764](https://lunareclipse000.wordpress.com/2024/01/18/1764/) : 듣보잡, TreeMap, Comparator, Lambda
 
-* [7785](https://lunareclipse000.wordpress.com/2024/01/18/7785/) : 회사에 있는 사람, TreeMap, Comparator, Lambda/Overriding
+:ballot_box_with_check: [7785](https://lunareclipse000.wordpress.com/2024/01/18/7785/) : 회사에 있는 사람, TreeMap, Comparator, Lambda/Overriding
 
-* [10815](https://lunareclipse000.wordpress.com/2024/01/17/10815/) : 숫자 카드, HashMap
+:ballot_box_with_check: [10815](https://lunareclipse000.wordpress.com/2024/01/17/10815/) : 숫자 카드, HashMap
 
-* [10816](https://lunareclipse000.wordpress.com/2024/01/18/10816/) : 숫자 카드2, HashMap
+:ballot_box_with_check: [10816](https://lunareclipse000.wordpress.com/2024/01/18/10816/) : 숫자 카드2, HashMap
 
-* [11478](https://lunareclipse000.wordpress.com/2024/01/18/11478/) : 서로 다른 부분 문자열의 개수, HashMap
+:ballot_box_with_check: [11478](https://lunareclipse000.wordpress.com/2024/01/18/11478/) : 서로 다른 부분 문자열의 개수, HashMap
 
-* [14425](https://lunareclipse000.wordpress.com/2024/01/17/14425/) : 문자열 집합, HashMap
+:ballot_box_with_check: [14425](https://lunareclipse000.wordpress.com/2024/01/17/14425/) : 문자열 집합, HashMap
 
