@@ -5,10 +5,10 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-* [2563](https://lunareclipse000.wordpress.com/2023/12/28/2563/)
+:ballot_box_with_check: [2563](https://lunareclipse000.wordpress.com/2023/12/28/2563/)
 
-* [2566](https://lunareclipse000.wordpress.com/2023/12/18/2566/)
+:ballot_box_with_check: [2566](https://lunareclipse000.wordpress.com/2023/12/18/2566/)
 
-* [2738](https://lunareclipse000.wordpress.com/2023/12/18/2738/)
+:ballot_box_with_check: [2738](https://lunareclipse000.wordpress.com/2023/12/18/2738/)
 
-* [10798](https://lunareclipse000.wordpress.com/2023/12/19/10798/)
+:ballot_box_with_check: [10798](https://lunareclipse000.wordpress.com/2023/12/19/10798/)
