@@ -5,22 +5,22 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-* [1546](https://lunareclipse000.wordpress.com/2023/12/18/1546/)
+:ballot_box_with_check: [1546](https://lunareclipse000.wordpress.com/2023/12/18/1546/)
 
-* [2562](https://lunareclipse000.wordpress.com/2023/12/14/2562/)
+:ballot_box_with_check: [2562](https://lunareclipse000.wordpress.com/2023/12/14/2562/)
 
-* [3052](https://lunareclipse000.wordpress.com/2023/12/17/3052/)
+:ballot_box_with_check: [3052](https://lunareclipse000.wordpress.com/2023/12/17/3052/)
 
-* [5597](https://lunareclipse000.wordpress.com/2023/12/17/5597/)
+:ballot_box_with_check: [5597](https://lunareclipse000.wordpress.com/2023/12/17/5597/)
 
-* [10807](https://lunareclipse000.wordpress.com/2023/12/13/10807/)
+:ballot_box_with_check: [10807](https://lunareclipse000.wordpress.com/2023/12/13/10807/)
 
-* [10810](https://lunareclipse000.wordpress.com/2023/12/14/10810/)
+:ballot_box_with_check: [10810](https://lunareclipse000.wordpress.com/2023/12/14/10810/)
 
-* [10811](https://lunareclipse000.wordpress.com/2023/12/17/10811/)
+:ballot_box_with_check: [10811](https://lunareclipse000.wordpress.com/2023/12/17/10811/)
 
-* [10813](https://lunareclipse000.wordpress.com/2023/12/17/10813/)
+:ballot_box_with_check: [10813](https://lunareclipse000.wordpress.com/2023/12/17/10813/)
 
-* [10818](https://lunareclipse000.wordpress.com/2023/12/13/10818/)
+:ballot_box_with_check: [10818](https://lunareclipse000.wordpress.com/2023/12/13/10818/)
 
-* [10871](https://lunareclipse000.wordpress.com/2023/12/13/10871/)
+:ballot_box_with_check: [10871](https://lunareclipse000.wordpress.com/2023/12/13/10871/)
