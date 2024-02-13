@@ -5,18 +5,18 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: [1167](https://lunareclipse000.wordpress.com/2024/01/31/1167/)
+:ballot_box_with_check: [1167](https://lunareclipse000.wordpress.com/2024/01/31/1167/) : 트리의 지름
 
-:ballot_box_with_check: [1967](https://lunareclipse000.wordpress.com/2024/01/31/1967/)
+:ballot_box_with_check: [1967](https://lunareclipse000.wordpress.com/2024/01/31/1967/) : 트리의 지름
 
-:ballot_box_with_check: [1991](https://lunareclipse000.wordpress.com/2024/02/05/1991/)
+:ballot_box_with_check: [1991](https://lunareclipse000.wordpress.com/2024/02/05/1991/) : 트리 순회
 
-:ballot_box_with_check: [2263](https://lunareclipse000.wordpress.com/2024/02/05/2263/)
+:ballot_box_with_check: [2263](https://lunareclipse000.wordpress.com/2024/02/05/2263/) : 트리의 순회
 
-:ballot_box_with_check: [4803_DFS](https://lunareclipse000.wordpress.com/2024/02/05/4803/)
+:ballot_box_with_check: [4803_DFS](https://lunareclipse000.wordpress.com/2024/02/05/4803/) : 트리
 
-:ballot_box_with_check: [4803_UnionAndFind](https://lunareclipse000.wordpress.com/2024/02/10/%eb%b0%b1%ec%a4%80-4803-union-find-java/)
+:ballot_box_with_check: [4803_UnionAndFind](https://lunareclipse000.wordpress.com/2024/02/10/%eb%b0%b1%ec%a4%80-4803-union-find-java/) : 트리
 
-:ballot_box_with_check: [5639](https://lunareclipse000.wordpress.com/2024/02/05/5639/)
+:ballot_box_with_check: [5639](https://lunareclipse000.wordpress.com/2024/02/05/5639/) : 이진 검색 트리
 
-:ballot_box_with_check: [11725](https://lunareclipse000.wordpress.com/2024/01/30/11725/)
+:ballot_box_with_check: [11725](https://lunareclipse000.wordpress.com/2024/01/30/11725/) : 트리의 부모 찾기
