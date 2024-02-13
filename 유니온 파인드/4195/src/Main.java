@@ -18,9 +18,6 @@ public class Main {
         int T;
         int numFriends;
 
-        // BufferedReader
-        
-
         // 변수 입력
         T = Integer.parseInt(br.readLine());
 

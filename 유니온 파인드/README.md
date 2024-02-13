@@ -5,10 +5,10 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: 1717 : 작성중
+:ballot_box_with_check: [1717](https://lunareclipse000.wordpress.com/2024/02/13/%eb%b0%b1%ec%a4%80-1717-java/) : 집합의 표현
 
-:ballot_box_with_check: 1976 : 작성중
+:ballot_box_with_check: [1976](https://lunareclipse000.wordpress.com/2024/02/13/java-%eb%b0%b1%ec%a4%80-1976/) : 여행가자
 
-:ballot_box_with_check: 4195 : 작성중
+:ballot_box_with_check: [4195](https://lunareclipse000.wordpress.com/2024/02/13/java-%eb%b0%b1%ec%a4%80-4195/) : 친구 네트워크
 
-:ballot_box_with_check: 20040 : 작성중
+:ballot_box_with_check: [20040](https://lunareclipse000.wordpress.com/2024/02/13/java-%eb%b0%b1%ec%a4%80-20040/) : 사이클 게임
