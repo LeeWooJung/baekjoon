@@ -51,13 +51,6 @@ public class Main {
         System.out.println("YES");
     }
 
-    static boolean allConnected() {
-        for(int city = 1; city < parent.length; city++) {
-            if(parent[city] != 1) return false;
-        }
-        return true;
-    }
-
     static int find(int city) {
         if(parent[city] == city) {
             return city;
