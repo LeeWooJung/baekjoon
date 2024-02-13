@@ -9,6 +9,6 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 1976 : 작성중
 
-:black_square_button: 4195 : 푸는중
+:ballot_box_with_check: 4195 : 작성중
 
-:black_square_button: 20040 : 푸는중
+:ballot_box_with_check: 20040 : 작성중
