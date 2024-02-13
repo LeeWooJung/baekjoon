@@ -5,32 +5,32 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: [1725](https://lunareclipse000.wordpress.com/2024/01/15/1725/)
+:ballot_box_with_check: [1725](https://lunareclipse000.wordpress.com/2024/01/15/1725/) : 히스토그램
 
-:ballot_box_with_check: [2164](https://lunareclipse000.wordpress.com/2024/01/09/2164/)
+:ballot_box_with_check: [2164](https://lunareclipse000.wordpress.com/2024/01/09/2164/) : 카드2
 
-:ballot_box_with_check: [2346](https://lunareclipse000.wordpress.com/2024/01/11/2346/)
+:ballot_box_with_check: [2346](https://lunareclipse000.wordpress.com/2024/01/11/2346/) : 풍선 터뜨리기
 
-:ballot_box_with_check: [3015](https://lunareclipse000.wordpress.com/2024/01/16/3015/)
+:ballot_box_with_check: [3015](https://lunareclipse000.wordpress.com/2024/01/16/3015/) : 오아시스 재결합
 
-:ballot_box_with_check: [4949](https://lunareclipse000.wordpress.com/2024/01/08/4949/)
+:ballot_box_with_check: [4949](https://lunareclipse000.wordpress.com/2024/01/08/4949/) : 균형잡힌 세상
 
-:ballot_box_with_check: [9012](https://lunareclipse000.wordpress.com/2024/01/08/9012/)
+:ballot_box_with_check: [9012](https://lunareclipse000.wordpress.com/2024/01/08/9012/) : 괄호
 
-:ballot_box_with_check: [9935](https://lunareclipse000.wordpress.com/2024/01/12/9935/)
+:ballot_box_with_check: [9935](https://lunareclipse000.wordpress.com/2024/01/12/9935/) : 문자열 폭발
 
-:ballot_box_with_check: [10773](https://lunareclipse000.wordpress.com/2024/01/08/10773/)
+:ballot_box_with_check: [10773](https://lunareclipse000.wordpress.com/2024/01/08/10773/) : 제로
 
-:ballot_box_with_check: [11866](https://lunareclipse000.wordpress.com/2024/01/09/11866/)
+:ballot_box_with_check: [11866](https://lunareclipse000.wordpress.com/2024/01/09/11866/) : 요세푸스 문제 0
 
-:ballot_box_with_check: [12789](https://lunareclipse000.wordpress.com/2024/01/09/12789/)
+:ballot_box_with_check: [12789](https://lunareclipse000.wordpress.com/2024/01/09/12789/) : 도키도키 간식드리미
 
-:ballot_box_with_check: [17298, 17299](https://lunareclipse000.wordpress.com/2024/01/12/17298-17299/)
+:ballot_box_with_check: [17298, 17299](https://lunareclipse000.wordpress.com/2024/01/12/17298-17299/) : 오큰수, 오등큰수
 
-:ballot_box_with_check: [18258](https://lunareclipse000.wordpress.com/2024/01/09/18258/)
+:ballot_box_with_check: [18258](https://lunareclipse000.wordpress.com/2024/01/09/18258/) : 큐 2
 
-:ballot_box_with_check: [24511](https://lunareclipse000.wordpress.com/2024/01/11/24511/)
+:ballot_box_with_check: [24511](https://lunareclipse000.wordpress.com/2024/01/11/24511/) : queuestack
 
-:ballot_box_with_check: [28278](https://lunareclipse000.wordpress.com/2024/01/07/28278/)
+:ballot_box_with_check: [28278](https://lunareclipse000.wordpress.com/2024/01/07/28278/) : 스택 2
 
-:ballot_box_with_check: [28279](https://lunareclipse000.wordpress.com/2024/01/11/28279/)
+:ballot_box_with_check: [28279](https://lunareclipse000.wordpress.com/2024/01/11/28279/) : 덱 2
