@@ -5,22 +5,22 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: [1546](https://lunareclipse000.wordpress.com/2023/12/18/1546/)
+:ballot_box_with_check: [1546](https://lunareclipse000.wordpress.com/2023/12/18/1546/) : 평균
 
-:ballot_box_with_check: [2562](https://lunareclipse000.wordpress.com/2023/12/14/2562/)
+:ballot_box_with_check: [2562](https://lunareclipse000.wordpress.com/2023/12/14/2562/) : 최댓값
 
-:ballot_box_with_check: [3052](https://lunareclipse000.wordpress.com/2023/12/17/3052/)
+:ballot_box_with_check: [3052](https://lunareclipse000.wordpress.com/2023/12/17/3052/) : 나머지
 
-:ballot_box_with_check: [5597](https://lunareclipse000.wordpress.com/2023/12/17/5597/)
+:ballot_box_with_check: [5597](https://lunareclipse000.wordpress.com/2023/12/17/5597/) : 과제 안 내신 분..?
 
-:ballot_box_with_check: [10807](https://lunareclipse000.wordpress.com/2023/12/13/10807/)
+:ballot_box_with_check: [10807](https://lunareclipse000.wordpress.com/2023/12/13/10807/) : 개수 세기
 
-:ballot_box_with_check: [10810](https://lunareclipse000.wordpress.com/2023/12/14/10810/)
+:ballot_box_with_check: [10810](https://lunareclipse000.wordpress.com/2023/12/14/10810/) : 공 넣기
 
-:ballot_box_with_check: [10811](https://lunareclipse000.wordpress.com/2023/12/17/10811/)
+:ballot_box_with_check: [10811](https://lunareclipse000.wordpress.com/2023/12/17/10811/) : 바구니 뒤집기
 
-:ballot_box_with_check: [10813](https://lunareclipse000.wordpress.com/2023/12/17/10813/)
+:ballot_box_with_check: [10813](https://lunareclipse000.wordpress.com/2023/12/17/10813/) : 공 바꾸기
 
-:ballot_box_with_check: [10818](https://lunareclipse000.wordpress.com/2023/12/13/10818/)
+:ballot_box_with_check: [10818](https://lunareclipse000.wordpress.com/2023/12/13/10818/) : 최소,최대
 
-:ballot_box_with_check: [10871](https://lunareclipse000.wordpress.com/2023/12/13/10871/)
+:ballot_box_with_check: [10871](https://lunareclipse000.wordpress.com/2023/12/13/10871/) : X보다 작은수
