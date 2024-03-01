@@ -5,6 +5,6 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:black_square_button: 11279 : 최대 힙  
+:ballot_box_with_check: 11279 : 최대 힙  
 :black_square_button: 1927 : 최소 힙  
 :black_square_button: 11286 : 절댓값 힙  
