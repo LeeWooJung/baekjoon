@@ -5,6 +5,6 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: 11279 : 최대 힙  
-:ballot_box_with_check: 1927 : 최소 힙  
-:black_square_button: 11286 : 절댓값 힙  
+:ballot_box_with_check: 11279 : 최대 힙(Heap 구현)   
+:ballot_box_with_check: 1927 : 최소 힙(Heap 구현)  
+:ballot_box_with_check: 11286 : 절댓값 힙(PriorityQueue 사용 - Comparator Interface, Lambda Expression)  
