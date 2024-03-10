@@ -35,6 +35,6 @@ Baekjoon JAVA solution :notes:
 
 -----
 
-:black_square_button: [우선 순위 큐](https://lunareclipse000.wordpress.com/category/%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%8a%a4%ed%84%b0%eb%94%94/%ec%9e%90%eb%a3%8c%ea%b5%ac%ec%a1%b0-%ec%8b%a4%ec%8a%b5/%eb%b0%b1%ec%a4%80/%ec%9a%b0%ec%84%a0%ec%88%9c%ec%9c%84%ed%81%90/)
+:ballot_box_with_check: [우선 순위 큐](https://lunareclipse000.wordpress.com/category/%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ec%8a%a4%ed%84%b0%eb%94%94/%ec%9e%90%eb%a3%8c%ea%b5%ac%ec%a1%b0-%ec%8b%a4%ec%8a%b5/%eb%b0%b1%ec%a4%80/%ec%9a%b0%ec%84%a0%ec%88%9c%ec%9c%84%ed%81%90/)
 <!-- 빈 체크 버튼 :black_square_button: -->
 <!-- 체크 버튼 :ballot_box_with_check: -->
