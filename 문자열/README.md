@@ -5,21 +5,21 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:black_square_button: 27866 문자와 문자열
+:ballot_box_with_check: 27866 문자와 문자열 - 작성중
 
-:black_square_button: 2743 단어 길이 재기
+:ballot_box_with_check: 2743 단어 길이 재기 - 작성중
 
-:black_square_button: 9086 문자열
+:ballot_box_with_check: 9086 문자열 - 작성중
 
-:black_square_button: 11654 아스키 코드
+:ballot_box_with_check: 11654 아스키 코드 - 작성중
 
-:black_square_button: 11720 숫자의 합
+:ballot_box_with_check: 11720 숫자의 합 - 작성중
 
-:black_square_button: 10809 알파벳 찾기
+:ballot_box_with_check: 10809 알파벳 찾기 - 작성중
 
-:black_square_button: 2675 문자열 반복
+:ballot_box_with_check: 2675 문자열 반복 - 작성중
 
-:black_square_button: 1152 단어의 개수
+:ballot_box_with_check: 1152 단어의 개수 - 작성중
 
 :black_square_button: 2908 상수
 
