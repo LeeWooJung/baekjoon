@@ -1,3 +1,12 @@
+## Source Code Location
+
+src/Main.java
+
+## Explanation Page Link
+
+[Link](https://lunareclipse000.wordpress.com/2024/03/15/java%eb%b0%b1%ec%a4%80-11654-%ec%95%84%ec%8a%a4%ed%82%a4-%ec%bd%94%eb%93%9c/)
+
+
 ## Ascii
 
 * 8bit(256개 문자)까지 표현 가능
