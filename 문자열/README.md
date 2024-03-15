@@ -21,9 +21,9 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 1152 단어의 개수 - 작성중
 
-:black_square_button: 2908 상수
+:ballot_box_with_check: 2908 상수 - 작성중
 
-:black_square_button: 5622 다이얼
+:ballot_box_with_check: 5622 다이얼 - 작성중
 
-:black_square_button: 11718 그대로 출력하기
+:ballot_box_with_check: 11718 그대로 출력하기 - 작성중
 
