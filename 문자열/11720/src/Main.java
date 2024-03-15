@@ -18,7 +18,8 @@ public class Main {
 
         // 문제 해결
         process p = new process(str);
-        System.out.println(p.getSum());
+        //System.out.println(p.getSum());
+        System.out.println(p.getSum2());
     }
 }
 
@@ -33,6 +34,14 @@ class process {
         int sum = 0;
         for(int index = 0; index < this.str.length(); index++) {
             sum += str.charAt(index) - '0';
+        }
+        return sum;
+    }
+
+    int getSum2() {
+        int sum = 0;
+        for(char c: str.toCharArray()) {
+            sum += c - '0';
         }
         return sum;
     }
