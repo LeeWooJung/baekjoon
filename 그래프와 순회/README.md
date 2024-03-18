@@ -5,13 +5,13 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:black_square_button: 24479 알고리즘 수업 - 깊이 우선 탐색 1
+:ballot_box_with_check: 24479 알고리즘 수업 - 깊이 우선 탐색 1
 
-:black_square_button: 24480 알고리즘 수업 - 깊이 우선 탐색 2
+:ballot_box_with_check: 24480 알고리즘 수업 - 깊이 우선 탐색 2
 
-:black_square_button: 24444 알고리즘 수업 - 너비 우선 탐색 1
+:ballot_box_with_check: 24444 알고리즘 수업 - 너비 우선 탐색 1
 
-:black_square_button: 24445 알고리즘 수업 - 너비 우선 탐색 2
+:ballot_box_with_check: 24445 알고리즘 수업 - 너비 우선 탐색 2
 
 :black_square_button: 2606 바이러스
 
