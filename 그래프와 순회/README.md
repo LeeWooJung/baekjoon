@@ -5,17 +5,17 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: 24479 알고리즘 수업 - 깊이 우선 탐색 1
+:ballot_box_with_check: 24479 알고리즘 수업 - 깊이 우선 탐색 1 : 작성중
 
-:ballot_box_with_check: 24480 알고리즘 수업 - 깊이 우선 탐색 2
+:ballot_box_with_check: 24480 알고리즘 수업 - 깊이 우선 탐색 2 : 작성중
 
-:ballot_box_with_check: 24444 알고리즘 수업 - 너비 우선 탐색 1
+:ballot_box_with_check: 24444 알고리즘 수업 - 너비 우선 탐색 1 : 작성중
 
-:ballot_box_with_check: 24445 알고리즘 수업 - 너비 우선 탐색 2
+:ballot_box_with_check: 24445 알고리즘 수업 - 너비 우선 탐색 2 : 작성중
 
-:ballot_box_with_check: 2606 바이러스
+:ballot_box_with_check: 2606 바이러스 : 작성중
 
-:ballot_box_with_check: 1260 DFS와 BFS
+:ballot_box_with_check: 1260 DFS와 BFS : 작성중
 
 :black_square_button: 2667 단지번호붙이기
 
