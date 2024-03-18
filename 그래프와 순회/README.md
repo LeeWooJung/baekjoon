@@ -13,9 +13,9 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 24445 알고리즘 수업 - 너비 우선 탐색 2
 
-:black_square_button: 2606 바이러스
+:ballot_box_with_check: 2606 바이러스
 
-:black_square_button: 1260 DFS와 BFS
+:ballot_box_with_check: 1260 DFS와 BFS
 
 :black_square_button: 2667 단지번호붙이기
 
