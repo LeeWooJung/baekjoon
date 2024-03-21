@@ -17,7 +17,7 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 1260 DFS와 BFS : 작성중
 
-:black_square_button: 2667 단지번호붙이기
+:ballot_box_with_check: 2667 단지번호붙이기 : 작성중
 
 :black_square_button: 1012 유기농 배추
 
