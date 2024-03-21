@@ -19,11 +19,11 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 2667 단지번호붙이기 : 작성중
 
-:black_square_button: 1012 유기농 배추
+:ballot_box_with_check: 1012 유기농 배추 : 작성중
 
-:black_square_button: 2178 미로 탐색
+:ballot_box_with_check: 2178 미로 탐색 : 작성중
 
-:black_square_button: 1697 숨바꼭질
+:ballot_box_with_check: 1697 숨바꼭질 : 작성중
 
 :black_square_button: 7562 나이트의 이동
 
