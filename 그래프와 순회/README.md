@@ -29,7 +29,7 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 7569 토마토 : 작성중
 
-:black_square_button: 16928 뱀과 사다리 게임
+:ballot_box_with_check: 16928 뱀과 사다리 게임 : 작성중
 
 :black_square_button: 2206 벽 부수고 이동하기
 
