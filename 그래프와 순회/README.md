@@ -27,7 +27,7 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 7562 나이트의 이동 : 작성중
 
-:black_square_button: 7569 토마토
+:ballot_box_with_check: 7569 토마토 : 작성중
 
 :black_square_button: 16928 뱀과 사다리 게임
 
