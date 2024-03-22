@@ -25,7 +25,7 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 1697 숨바꼭질 : 작성중
 
-:black_square_button: 7562 나이트의 이동
+:ballot_box_with_check: 7562 나이트의 이동 : 작성중
 
 :black_square_button: 7569 토마토
 
