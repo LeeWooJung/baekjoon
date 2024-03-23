@@ -71,21 +71,20 @@ public class Main {
 
                 if(nx < 0 || ny < 0 || nx > destination.x || ny > destination.y) continue;
 
-                if(map[nx][ny] == 1) {
-                    if(current.breakWall) continue; // 이미 벽을 부순 전적이 있으면 더 이상 진행불가
+                int toCheck = current.breakWall ? 1 : 0;
 
+                if(map[nx][ny] == 1) {
+                    if(toCheck == 1) continue; // 이미 벽을 부순 전적이 있으면 더 이상 진행불가
                     queue.offer(new point(nx, ny, current.step + 1, true));
                     visited[nx][ny][1] = true;
                 } else {
-                    if(current.breakWall) {
-                        if(visited[nx][ny][1]) continue;
-                        queue.offer(new point(nx, ny, current.step + 1, current.breakWall));
-                        visited[nx][ny][1] = true;
+                    if(toCheck == 1) {
+                        if(visited[nx][ny][toCheck]) continue;
                     } else {
-                        if(visited[nx][ny][0]) continue;
-                        queue.offer(new point(nx, ny, current.step + 1, current.breakWall));
-                        visited[nx][ny][0] = true;
+                        if(visited[nx][ny][toCheck]) continue;
                     }
+                    queue.offer(new point(nx, ny, current.step + 1, current.breakWall));
+                    visited[nx][ny][toCheck] = true;
                 }
             }
         }
