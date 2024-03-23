@@ -31,7 +31,7 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: 16928 뱀과 사다리 게임 : 작성중
 
-:black_square_button: 2206 벽 부수고 이동하기
+:ballot_box_with_check: 2206 벽 부수고 이동하기 : 작성중
 
 :black_square_button: 1707 이분 그래프
 
