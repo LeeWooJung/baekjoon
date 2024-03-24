@@ -55,9 +55,6 @@ public class Main {
 
             if(result) sb.append("YES\n");
             else sb.append("NO\n");
-            // bfs
-            // dfs
-
         }
         System.out.print(sb.toString());
     }
