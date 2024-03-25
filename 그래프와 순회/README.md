@@ -5,15 +5,15 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: 24479 알고리즘 수업 - 깊이 우선 탐색 1 : 작성중
+:ballot_box_with_check: [24479](https://lunareclipse000.wordpress.com/2024/03/25/java%eb%b0%b1%ec%a4%80-24479-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%88%98%ec%97%85-%ea%b9%8a%ec%9d%b4-%ec%9a%b0%ec%84%a0-%ed%83%90%ec%83%89-1/) 알고리즘 수업 - 깊이 우선 탐색 1
 
-:ballot_box_with_check: 24480 알고리즘 수업 - 깊이 우선 탐색 2 : 작성중
+:ballot_box_with_check: [24480](https://lunareclipse000.wordpress.com/2024/03/25/java%eb%b0%b1%ec%a4%80-24480-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%88%98%ec%97%85-%ea%b9%8a%ec%9d%b4-%ec%9a%b0%ec%84%a0-%ed%83%90%ec%83%89-2/) 알고리즘 수업 - 깊이 우선 탐색 2
 
-:ballot_box_with_check: 24444 알고리즘 수업 - 너비 우선 탐색 1 : 작성중
+:ballot_box_with_check: [24444](https://lunareclipse000.wordpress.com/2024/03/25/java%eb%b0%b1%ec%a4%80-24444-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%88%98%ec%97%85-%eb%84%88%eb%b9%84-%ec%9a%b0%ec%84%a0-%ed%83%90%ec%83%89-1/) 알고리즘 수업 - 너비 우선 탐색 1
 
-:ballot_box_with_check: 24445 알고리즘 수업 - 너비 우선 탐색 2 : 작성중
+:ballot_box_with_check: [24445](https://lunareclipse000.wordpress.com/2024/03/25/java%eb%b0%b1%ec%a4%80-24445-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%88%98%ec%97%85-%eb%84%88%eb%b9%84-%ec%9a%b0%ec%84%a0-%ed%83%90%ec%83%89-2/) 알고리즘 수업 - 너비 우선 탐색 2
 
-:ballot_box_with_check: 2606 바이러스 : 작성중
+:ballot_box_with_check: [2606](https://lunareclipse000.wordpress.com/2024/03/25/java%eb%b0%b1%ec%a4%80-2606-%eb%b0%94%ec%9d%b4%eb%9f%ac%ec%8a%a4/) 바이러스
 
 :ballot_box_with_check: 1260 DFS와 BFS : 작성중
 
