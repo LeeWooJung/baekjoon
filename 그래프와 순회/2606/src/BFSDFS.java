@@ -7,16 +7,20 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main {
+public class BFSDFS {
 
+    /*
+     * for BFS, DFS
+     */
     static computer[] network;
     static int yVirus = -1;
+
     public static void main(String[] args) throws Exception, IOException {
         
         // 변수 설정
         int N, M;
         int s, e;
-
+        
         // BufferedReader
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // StringTokenizer
@@ -41,11 +45,15 @@ public class Main {
             network[e].adj.add(s);
         }
 
-        //bfs(1);
-        dfs(1);
-
-
+        /*
+         * for bfs, dfs
+         */
+        bfs(1);
+        //dfs(1);
         System.out.println(yVirus);
+
+        br.close();
+
     }
 
     static void dfs(int current) {
