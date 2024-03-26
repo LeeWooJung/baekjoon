@@ -27,11 +27,11 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: [7562](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-7562-%eb%82%98%ec%9d%b4%ed%8a%b8%ec%9d%98-%ec%9d%b4%eb%8f%99/) 나이트의 이동
 
-:ballot_box_with_check: 7569 토마토 : 작성중
+:ballot_box_with_check: [7576](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-7576-%ed%86%a0%eb%a7%88%ed%86%a0/) 토마토
 
-:ballot_box_with_check: 16928 뱀과 사다리 게임 : 작성중
+:ballot_box_with_check: [16928](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-16928-%eb%b1%80%ea%b3%bc-%ec%82%ac%eb%8b%a4%eb%a6%ac-%ea%b2%8c%ec%9e%84/) 뱀과 사다리 게임
 
-:ballot_box_with_check: 2206 벽 부수고 이동하기 : 작성중
+:ballot_box_with_check: [2206](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-2206-%eb%b2%bd-%eb%b6%80%ec%88%98%ea%b3%a0-%ec%9d%b4%eb%8f%99%ed%95%98%ea%b8%b0/) 벽 부수고 이동하기
 
-:ballot_box_with_check: 1707 이분 그래프 : 작성중
+:ballot_box_with_check: [1707](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-1707-%ec%9d%b4%eb%b6%84-%ea%b7%b8%eb%9e%98%ed%94%84/) 이분 그래프
 
