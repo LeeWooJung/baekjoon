@@ -36,22 +36,17 @@ public class Main {
             }
         }
 
-        // bfs
         for(int row = 0; row < N; row++) {
             for(int col = 0; col < N; col++) {
+                // BFS
                 if(map[row][col] > 0) counts.add(bfs(row, col));
+                // DFS
+                //if(map[row][col] > 0) counts.add(dfs(row, col));
             }
         }
-        // dfs
-        /*
-        for(int row = 0; row < N; row++) {
-            for(int col = 0; col < N; col++) {
-                if(map[row][col] > 0) counts.add(dfs(row, col));
-            }
-        }
-        */
 
         result();
+        br.close();
     }
 
     static int dfs(int x, int y) {
