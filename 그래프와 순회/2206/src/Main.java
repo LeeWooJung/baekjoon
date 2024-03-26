@@ -8,7 +8,6 @@ import java.util.LinkedList;
 
 public class Main {
 
-    static int minDistance;
     static int[][] map;
     static boolean[][][] visited;
     static int[] dx = {1,-1,0,0};
@@ -30,7 +29,6 @@ public class Main {
 
         map = new int[N][M];
         visited = new boolean[N][M][2];
-        minDistance = N * M;
 
         for(int row = 0; row < N; row++) {
             String line = br.readLine();
@@ -78,11 +76,8 @@ public class Main {
                     queue.offer(new point(nx, ny, current.step + 1, true));
                     visited[nx][ny][1] = true;
                 } else {
-                    if(toCheck == 1) {
-                        if(visited[nx][ny][toCheck]) continue;
-                    } else {
-                        if(visited[nx][ny][toCheck]) continue;
-                    }
+                    if(visited[nx][ny][toCheck]) continue;
+
                     queue.offer(new point(nx, ny, current.step + 1, current.breakWall));
                     visited[nx][ny][toCheck] = true;
                 }
