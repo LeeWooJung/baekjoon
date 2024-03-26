@@ -15,17 +15,17 @@ Baekjoon JAVA solution :notes:
 
 :ballot_box_with_check: [2606](https://lunareclipse000.wordpress.com/2024/03/25/java%eb%b0%b1%ec%a4%80-2606-%eb%b0%94%ec%9d%b4%eb%9f%ac%ec%8a%a4/) 바이러스
 
-:ballot_box_with_check: 1260 DFS와 BFS : 작성중
+:ballot_box_with_check: [1260](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-1260-dfs%ec%99%80-bfs/) DFS와 BFS
 
-:ballot_box_with_check: 2667 단지번호붙이기 : 작성중
+:ballot_box_with_check: [2667](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-2667-%eb%8b%a8%ec%a7%80%eb%b2%88%ed%98%b8%eb%b6%99%ec%9d%b4%ea%b8%b0/) 단지번호붙이기
 
-:ballot_box_with_check: 1012 유기농 배추 : 작성중
+:ballot_box_with_check: [1012](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-1012-%ec%9c%a0%ea%b8%b0%eb%86%8d%eb%b0%b0%ec%b6%94/) 유기농 배추
 
-:ballot_box_with_check: 2178 미로 탐색 : 작성중
+:ballot_box_with_check: [2178](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-2178-%eb%af%b8%eb%a1%9c-%ed%83%90%ec%83%89/) 미로 탐색
 
-:ballot_box_with_check: 1697 숨바꼭질 : 작성중
+:ballot_box_with_check: [1697](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-1697-%ec%88%a8%eb%b0%94%ea%bc%ad%ec%a7%88/) 숨바꼭질
 
-:ballot_box_with_check: 7562 나이트의 이동 : 작성중
+:ballot_box_with_check: [7562](https://lunareclipse000.wordpress.com/2024/03/26/java%eb%b0%b1%ec%a4%80-7562-%eb%82%98%ec%9d%b4%ed%8a%b8%ec%9d%98-%ec%9d%b4%eb%8f%99/) 나이트의 이동
 
 :ballot_box_with_check: 7569 토마토 : 작성중
 
