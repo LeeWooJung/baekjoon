@@ -6,12 +6,12 @@ Baekjoon JAVA solution :notes:
 ## Category
 
 ### 동적 계획법 1  
-:black_square_button: 24416 알고리즘 수업 - 피보나치 수 1  
-:black_square_button: 9184 신나는 함수 실행  
-:black_square_button: 1904 01타일  
-:black_square_button: 9461 파도반 수열  
-:black_square_button: 1912 연속합  
-:black_square_button: 1149 RGB거리  
+:black_square_button: 24416 알고리즘 수업 - 피보나치 수 1 : 작성중  
+:black_square_button: 9184 신나는 함수 실행 : 작성중  
+:black_square_button: 1904 01타일 : 작성중  
+:black_square_button: 9461 파도반 수열 : 작성중  
+:black_square_button: 1912 연속합 : 작성중  
+:black_square_button: 1149 RGB거리 : 작성중  
 :black_square_button: 1932 정수 삼각형  
 :black_square_button: 2579 계단 오르기  
 :black_square_button: 1463 1로 만들기  
