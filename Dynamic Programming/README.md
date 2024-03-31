@@ -12,12 +12,12 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 9461 파도반 수열 : 작성중  
 :black_square_button: 1912 연속합 : 작성중  
 :black_square_button: 1149 RGB거리 : 작성중  
-:black_square_button: 1932 정수 삼각형  
-:black_square_button: 2579 계단 오르기  
-:black_square_button: 1463 1로 만들기  
-:black_square_button: 10844 쉬운 계단 수  
-:black_square_button: 2156  포도주 시식 
-:black_square_button: 11053 가장 긴 증가하는 부분 수열  
+:black_square_button: 1932 정수 삼각형 : 작성중  
+:black_square_button: 2579 계단 오르기 : 작성중  
+:black_square_button: 1463 1로 만들기 : 작성중  
+:black_square_button: 10844 쉬운 계단 수 : 작성중  
+:black_square_button: 2156  포도주 시식 : 작성중  
+:black_square_button: 11053 가장 긴 증가하는 부분 수열 : 작성중  
 :black_square_button: 11054 가장 긴 바이토닉 부분 수열  
 :black_square_button: 2565 전깃줄  
 :black_square_button: 9251 LCS  
