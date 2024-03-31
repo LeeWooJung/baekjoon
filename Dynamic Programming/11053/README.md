@@ -1,7 +1,7 @@
 ## Source Code Location
 
-src/dp.java  
-src/lis.java
+src/dp.java : Use Dynamic Programming  
+src/lis.java : Use Longest Increasing Sequence
 
 ## Explanation Page Link
 
