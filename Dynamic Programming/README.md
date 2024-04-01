@@ -24,8 +24,8 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 12865 평범한 배낭 : 작성중  
 
 ### 동적 계획법 2  
-:black_square_button: 11066 파일 합치기  
-:black_square_button: 11049 행렬 곱셈 순서  
+:black_square_button: 11066 파일 합치기 : 작성중  
+:black_square_button: 11049 행렬 곱셈 순서 : 작성중  
 :black_square_button: 1520 내리막 길  
 :black_square_button: 2629 양팔저울  
 :black_square_button: 2293 동전 1  
