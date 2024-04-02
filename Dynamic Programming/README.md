@@ -28,7 +28,7 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 11049 행렬 곱셈 순서 : 작성중  
 :black_square_button: 1520 내리막 길 : 작성중  
 :black_square_button: 2629 양팔저울 : 작성중  
-:black_square_button: 2293 동전 1  
+:black_square_button: 2293 동전 1 : 작성중  
 :black_square_button: 7579 앱  
 
 ### 동적 계획법 3  
