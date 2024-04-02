@@ -3,7 +3,7 @@ Baekjoon JAVA solution :notes:
 
 [Explanation Page](https://lunareclipse000.wordpress.com/)
 
-'그래프와 순회' solutions will be updated :blush:
+'Dynamic Programming' solutions will be updated :blush:
 
 ## Category
 
