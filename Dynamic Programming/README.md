@@ -29,7 +29,7 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 1520 내리막 길 : 작성중  
 :black_square_button: 2629 양팔저울 : 작성중  
 :black_square_button: 2293 동전 1 : 작성중  
-:black_square_button: 7579 앱  
+:black_square_button: 7579 앱 : 작성중  
 
 ### 동적 계획법 3  
 :black_square_button: 11723 집합  
