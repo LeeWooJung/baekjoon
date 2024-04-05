@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 import java.util.StringTokenizer;
 
-public class Main {
+public class topDown {
 
     static int[][][] dp = new int[21][21][21];
     public static void main(String[] args) throws Exception, IOException {
