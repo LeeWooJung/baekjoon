@@ -14,7 +14,7 @@ public class bottomUp {
 
         // 변수 입력
         n = Integer.parseInt(br.readLine());
-        dp = new int[n+1];
+        dp = new int[n+1]; // fibonacci value memoization
 
         // 문제 해결
         dp[1] = dp[2] = 1;

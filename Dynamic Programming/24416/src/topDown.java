@@ -26,7 +26,7 @@ public class topDown {
     static int fibonacci(int n) {
         if(n <= 1) return n;
 
-        if(memoization[n] != 0) return memoization[n];
+        if(memoization[n] != 0) return memoization[n]; // memoization
         
         memoization[n] = fibonacci(n-1) + fibonacci(n-2);
         return memoization[n];
