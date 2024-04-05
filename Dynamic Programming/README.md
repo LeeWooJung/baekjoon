@@ -7,9 +7,9 @@ Baekjoon JAVA solution :notes:
 
 ### 동적 계획법 1  
 :ballot_box_with_check: [24416](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java-24416-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%88%98%ec%97%85-%ed%94%bc%eb%b3%b4%eb%82%98%ec%b9%98-%ec%88%98-1/) 알고리즘 수업 - 피보나치 수 1  
-:black_square_button: [9184](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java-9184-%ec%8b%a0%eb%82%98%eb%8a%94-%ed%95%a8%ec%88%98-%ec%8b%a4%ed%96%89/) 신나는 함수 실행  
-:black_square_button: [1904](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java1904-01-%ed%83%80%ec%9d%bc/) 01타일  
-:black_square_button: 9461 파도반 수열 : 작성중  
+:ballot_box_with_check: [9184](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java-9184-%ec%8b%a0%eb%82%98%eb%8a%94-%ed%95%a8%ec%88%98-%ec%8b%a4%ed%96%89/) 신나는 함수 실행  
+:ballot_box_with_check: [1904](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java1904-01-%ed%83%80%ec%9d%bc/) 01타일  
+:ballot_box_with_check: [9461](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java-9461-%ed%8c%8c%eb%8f%84%eb%b0%98-%ec%88%98%ec%97%b4/) 파도반 수열  
 :black_square_button: 1912 연속합 : 작성중  
 :black_square_button: 1149 RGB거리 : 작성중  
 :black_square_button: 1932 정수 삼각형 : 작성중  
