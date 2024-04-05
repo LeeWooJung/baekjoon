@@ -1,6 +1,7 @@
 ## Source Code Location
 
-src/Main.java
+src/bottomUp.java : Bottom Up 방식 사용하여 해결  
+src/topDown.java : Top Down 방식 사용하여 해결  
 
 ## Explanation Page Link
 
