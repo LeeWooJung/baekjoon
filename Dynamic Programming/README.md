@@ -10,9 +10,9 @@ Baekjoon JAVA solution :notes:
 :ballot_box_with_check: [9184](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java-9184-%ec%8b%a0%eb%82%98%eb%8a%94-%ed%95%a8%ec%88%98-%ec%8b%a4%ed%96%89/) 신나는 함수 실행  
 :ballot_box_with_check: [1904](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java1904-01-%ed%83%80%ec%9d%bc/) 01타일  
 :ballot_box_with_check: [9461](https://lunareclipse000.wordpress.com/2024/04/05/%eb%b0%b1%ec%a4%80java-9461-%ed%8c%8c%eb%8f%84%eb%b0%98-%ec%88%98%ec%97%b4/) 파도반 수열  
-:black_square_button: 1912 연속합 : 작성중  
-:black_square_button: 1149 RGB거리 : 작성중  
-:black_square_button: 1932 정수 삼각형 : 작성중  
+:ballot_box_with_check: [1912](https://lunareclipse000.wordpress.com/2024/04/06/%eb%b0%b1%ec%a4%80java-1912-%ec%97%b0%ec%86%8d%ed%95%a9/) 연속합  
+:ballot_box_with_check: [1149](https://lunareclipse000.wordpress.com/2024/04/06/%eb%b0%b1%ec%a4%80java-1149-rgb-%ea%b1%b0%eb%a6%ac/) RGB거리  
+:ballot_box_with_check: [1932](https://lunareclipse000.wordpress.com/2024/04/06/%eb%b0%b1%ec%a4%80java-1932-%ec%a0%95%ec%88%98-%ec%82%bc%ea%b0%81%ed%98%95/) 정수 삼각형  
 :black_square_button: 2579 계단 오르기 : 작성중  
 :black_square_button: 1463 1로 만들기 : 작성중  
 :black_square_button: 10844 쉬운 계단 수 : 작성중  
