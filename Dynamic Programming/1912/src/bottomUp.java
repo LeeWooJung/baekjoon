@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 import java.util.StringTokenizer;
 
-public class Main {
+public class bottomUp {
     public static void main(String[] args) throws Exception, IOException {
         
         // 변수 설정
@@ -28,6 +28,7 @@ public class Main {
                 continue;
             }
             dp[index] = Math.max(dp[index], dp[index] + dp[index-1]);
+            maximum = Math.max(dp[index], maximum);
         }
 
         System.out.println(maximum);
