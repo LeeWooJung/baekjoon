@@ -13,7 +13,7 @@ Baekjoon JAVA solution :notes:
 :ballot_box_with_check: [1912](https://lunareclipse000.wordpress.com/2024/04/06/%eb%b0%b1%ec%a4%80java-1912-%ec%97%b0%ec%86%8d%ed%95%a9/) 연속합  
 :ballot_box_with_check: [1149](https://lunareclipse000.wordpress.com/2024/04/06/%eb%b0%b1%ec%a4%80java-1149-rgb-%ea%b1%b0%eb%a6%ac/) RGB거리  
 :ballot_box_with_check: [1932](https://lunareclipse000.wordpress.com/2024/04/06/%eb%b0%b1%ec%a4%80java-1932-%ec%a0%95%ec%88%98-%ec%82%bc%ea%b0%81%ed%98%95/) 정수 삼각형  
-:black_square_button: 2579 계단 오르기 : 작성중  
+:ballot_box_with_check: [2579](https://lunareclipse000.wordpress.com/2024/04/06/%eb%b0%b1%ec%a4%80java-2579-%ea%b3%84%eb%8b%a8-%ec%98%a4%eb%a5%b4%ea%b8%b0/) 계단 오르기  
 :black_square_button: 1463 1로 만들기 : 작성중  
 :black_square_button: 10844 쉬운 계단 수 : 작성중  
 :black_square_button: 2156  포도주 시식 : 작성중  
