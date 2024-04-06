@@ -1,6 +1,7 @@
 ## Source Code Location
 
-src/Main.java
+src/bottomUp.java : Bottom Up 방식으로 문제를 해결합니다.  
+src/topDown.java : Top Down 방식으로 문제를 해결합니다.  
 
 ## Explanation Page Link
 
