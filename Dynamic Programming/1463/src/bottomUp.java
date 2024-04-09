@@ -16,10 +16,6 @@ public class bottomUp {
         X = Integer.parseInt(br.readLine());
         dp = new int[X+1];
 
-        for(int number = 1; number <= X; number++) {
-            dp[number] = number-1;
-        }
-
         // dynamic programming
         for(int number = 2; number <= X; number++) {
             dp[number] = dp[number-1] + 1;
