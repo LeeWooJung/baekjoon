@@ -28,7 +28,7 @@ public class lis {
             array[idx] = Integer.parseInt(st.nextToken());
         }
 
-        // longest increasing subsequence
+        // longest increasing sequence
         lis[0] = array[0];
 
         for(int index = 1; index < N; index++) {
