@@ -1,7 +1,7 @@
 ## Source Code Location
 
 src/bottomUp.java : Use Bottom Up method  
-src/topDown.java : Use Top Down method
+src/topDown.java : Use Top Down method  
 src/lis.java : Use Longest Increasing Sequence
 
 ## Explanation Page Link
