@@ -17,9 +17,9 @@ Baekjoon JAVA solution :notes:
 :ballot_box_with_check: [1463](https://lunareclipse000.wordpress.com/2024/04/09/%eb%b0%b1%ec%a4%80java-1463-1%eb%a1%9c-%eb%a7%8c%eb%93%a4%ea%b8%b0/) 1로 만들기  
 :ballot_box_with_check: [10844](https://lunareclipse000.wordpress.com/2024/04/09/%eb%b0%b1%ec%a4%80java-10844-%ec%89%ac%ec%9a%b4-%ea%b3%84%eb%8b%a8/) 쉬운 계단 수  
 :ballot_box_with_check: [2156](https://lunareclipse000.wordpress.com/2024/04/10/%eb%b0%b1%ec%a4%80java-2156-%ed%8f%ac%eb%8f%84%ec%a3%bc-%ec%8b%9c%ec%8b%9d/)  포도주 시식  
-:black_square_button: [11053](https://lunareclipse000.wordpress.com/2024/04/10/%eb%b0%b1%ec%a4%80java-11053-%ea%b0%80%ec%9e%a5-%ea%b8%b4-%ec%a6%9d%ea%b0%80%ed%95%98%eb%8a%94-%eb%b6%80%eb%b6%84-%ec%88%98%ec%97%b4/) 가장 긴 증가하는 부분 수열  
-:black_square_button: 11054 가장 긴 바이토닉 부분 수열 : 작성중  
-:black_square_button: 2565 전깃줄 : 작성중  
+:ballot_box_with_check: [11053](https://lunareclipse000.wordpress.com/2024/04/10/%eb%b0%b1%ec%a4%80java-11053-%ea%b0%80%ec%9e%a5-%ea%b8%b4-%ec%a6%9d%ea%b0%80%ed%95%98%eb%8a%94-%eb%b6%80%eb%b6%84-%ec%88%98%ec%97%b4/) 가장 긴 증가하는 부분 수열  
+:ballot_box_with_check: [11054](https://lunareclipse000.wordpress.com/2024/04/10/%eb%b0%b1%ec%a4%80java-11054-%ea%b0%80%ec%9e%a5-%ea%b8%b4-%eb%b0%94%ec%9d%b4%ed%86%a0%eb%8b%89-%eb%b6%80%eb%b6%84-%ec%88%98%ec%97%b4/) 가장 긴 바이토닉 부분 수열  
+:ballot_box_with_check: [2565](https://lunareclipse000.wordpress.com/2024/04/11/%eb%b0%b1%ec%a4%80java-2565-%ec%a0%84%ea%b9%83%ec%a4%84/) 전깃줄  
 :black_square_button: 9251 LCS : 작성중  
 :black_square_button: 12865 평범한 배낭 : 작성중  
 
