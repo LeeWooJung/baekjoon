@@ -32,8 +32,8 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 7579 앱 : 작성중  
 
 ### 동적 계획법 3  
-:black_square_button: 11723 집합  
-:black_square_button: 1311 할 일 정하기 1  
+:black_square_button: 11723 집합 : 작성중  
+:black_square_button: 1311 할 일 정하기 1 : 작성중  
 :black_square_button: 2098 외판원 순회  
 :black_square_button: 1086 박성원  
 :black_square_button: 17404 RGB거리 2  
