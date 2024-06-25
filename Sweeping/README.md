@@ -5,9 +5,9 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:ballot_box_with_check: 2170 선 긋기  
-:ballot_box_with_check: 2836 수상 택시  
-:ballot_box_with_check: 5419 북서풍  
-:ballot_box_with_check: 17131 여우가 정보섬에 올라온 이유  
-:ballot_box_with_check: 7626 직사각형  
-:ballot_box_with_check: 11012 Egg  
+:black_square_button: 2170 선 긋기  
+:black_square_button: 2836 수상 택시  
+:black_square_button: 5419 북서풍  
+:black_square_button: 17131 여우가 정보섬에 올라온 이유  
+:black_square_button: 7626 직사각형  
+:black_square_button: 11012 Egg  
