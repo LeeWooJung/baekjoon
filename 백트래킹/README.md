@@ -14,3 +14,5 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 15652 N과 M(4) : 작성중
 
 :black_square_button: 9663 N-Queen : 작성중
+
+:black_square_button: 2580 스도쿠 : 작성중
