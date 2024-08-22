@@ -16,3 +16,7 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 9663 N-Queen : 작성중
 
 :black_square_button: 2580 스도쿠 : 작성중
+
+:black_square_button: 14888 연산자 끼워넣기 : 작성중
+
+:black_square_button: 14889 스타트와 링크 : 작성중
