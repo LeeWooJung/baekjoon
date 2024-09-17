@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class Hashmap {
     
     public static void main(String[] args) throws Exception, IOException {
         

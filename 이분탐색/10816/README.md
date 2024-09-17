@@ -1,10 +1,12 @@
 ## Source Code Location
 
-src/Main.java
+src/BinarySearch.java
+src/Hashmap.java
 
 ## Algorithm & Data Structure
 
-- HashMap
+- HashMap  
+- BinarySearch
 
 ## Explanation Page Link
 
