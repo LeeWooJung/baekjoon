@@ -45,5 +45,13 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 누적합 - 작성중
 
 :black_square_button: Segment Tree - 작성중
+
+:black_square_button: 최단경로 - 작성중
+
+:black_square_button: 최소 신장 트리 - 작성중
+
+:black_square_button: 이분탐색 - 작성중
+
+:black_square_button: 분할정복 - 작성중
 <!-- 빈 체크 버튼 :black_square_button: -->
 <!-- 체크 버튼 :ballot_box_with_check: -->
