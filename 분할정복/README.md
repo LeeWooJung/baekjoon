@@ -5,17 +5,17 @@ Baekjoon JAVA solution :notes:
 
 ## Category
 
-:black_square_button: 2630 색종이 만들기
+:black_square_button: 2630 색종이 만들기 : 작성중
 
-:black_square_button: 1992 쿼드트리
+:black_square_button: 1992 쿼드트리 : 작성중
 
-:black_square_button: 1780 종이의 개수
+:black_square_button: 1780 종이의 개수 : 작성중
 
-:black_square_button: 1629 곱셈
+:black_square_button: 1629 곱셈 : 작성중
 
-:black_square_button: 11401 이항 계수 3
+:black_square_button: 11401 이항 계수 3 : 작성중
 
-:black_square_button: 2740 행렬 곱셈
+:black_square_button: 2740 행렬 곱셈 : 작성중
 
 :black_square_button: 10830 행렬 제곱
 
