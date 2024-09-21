@@ -16,7 +16,7 @@ import java.util.StringTokenizer;
  * ...
  */
 
-public class Main {
+public class DivideConquer {
     public static void main(String[] args) throws Exception, IOException {
         
         int n;
