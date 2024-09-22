@@ -17,8 +17,8 @@ Baekjoon JAVA solution :notes:
 
 :black_square_button: 2740 행렬 곱셈 : 작성중
 
-:black_square_button: 10830 행렬 제곱
+:black_square_button: 10830 행렬 제곱 : 작성중
 
-:black_square_button: 11444 피보나치 수 6
+:black_square_button: 11444 피보나치 수 6 : 작성중
 
-:black_square_button: 6549 히스토그램에서 가장 큰 직사각형
+:black_square_button: 6549 히스토그램에서 가장 큰 직사각형 : 작성중
