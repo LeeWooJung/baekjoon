@@ -6,6 +6,7 @@ src/DivideConquer.java
 
 - Divide & Conquer: DivideConquer.java
 - Segment Tree : SegmentTree.java
+- Stack : stack.java
 
 ## Explanation Page Link
 
