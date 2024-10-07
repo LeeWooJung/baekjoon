@@ -53,5 +53,7 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 이분탐색 - 작성중
 
 :black_square_button: 분할정복 - 작성중
+
+:black_square_button: 그리디 알고리즘 - 작성중
 <!-- 빈 체크 버튼 :black_square_button: -->
 <!-- 체크 버튼 :ballot_box_with_check: -->
