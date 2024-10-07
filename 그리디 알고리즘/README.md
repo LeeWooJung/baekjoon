@@ -5,12 +5,12 @@ Explanation Page : 작성 중
 
 ## Category
 
-:black_square_button: 11047 동전 0
+:black_square_button: 11047 동전 0 : 작성중
 
-:black_square_button: 1931 회의실 배정
+:black_square_button: 1931 회의실 배정 : 작성중
 
-:black_square_button: 11399 ATM
+:black_square_button: 11399 ATM : 작성중
 
-:black_square_button: 1541 잃어버린 괄호
+:black_square_button: 1541 잃어버린 괄호 : 작성중
 
-:black_square_button: 13305 주소
+:black_square_button: 13305 주소 : 작성중
