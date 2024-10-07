@@ -1,6 +1,7 @@
 ## Source Code Location
 
-src/Main.java
+src/Greedy.java
+src/nonGreedy.java
 
 ## Explanation Page Link
 
