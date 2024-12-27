@@ -16,3 +16,9 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 11660 구간 합 구하기 5 : 작성중  
 
 :black_square_button: 25682 체스판 다시 칠하기 2 : 작성중  
+
+:black_square_button: 21921 블로그 : 작성중  
+
+:black_square_button: 17425 약수의 합 : 작성중  
+
+:black_square_button: 16973 직사각형 탈출 : 작성중  
