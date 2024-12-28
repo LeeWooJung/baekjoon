@@ -18,3 +18,11 @@ Explanation Page : 작성중
 :black_square_button: 1300 K번째 수 : 작성중
 
 :black_square_button: 12015 가장 긴 증가하는 부분 수열 2 : 작성중
+
+:black_square_button: 16401 과자 나눠주기 : 작성중
+
+:black_square_button: 1072 게임 : 작성중
+
+:black_square_button: 2243 기타레슨 : 작성중
+
+:black_square_button: 2842 집배원 한상덕 : 작성중
