@@ -26,3 +26,5 @@ Explanation Page : 작성중
 :black_square_button: 2243 기타레슨 : 작성중
 
 :black_square_button: 2842 집배원 한상덕 : 작성중
+
+:black_square_button: 1477 휴게소 세우기 : 작성중
