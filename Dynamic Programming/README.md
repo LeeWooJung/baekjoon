@@ -41,3 +41,6 @@ Baekjoon JAVA solution :notes:
 
 ### 동적 계획법
 :black_square_button: 2294 동전 2 : 작성중  
+:black_square_button: 2193 이친수 : 작성중  
+:black_square_button: 15988 1,2,3 더하기 3 : 작성중  
+:black_square_button: 1102 발전소 : 작성중  
