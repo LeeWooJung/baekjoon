@@ -22,3 +22,7 @@ Baekjoon JAVA solution :notes:
 :black_square_button: 17425 약수의 합 : 작성중  
 
 :black_square_button: 16973 직사각형 탈출 : 작성중  
+
+:black_square_button: 2435 기상청 인턴 신현수 : 작성중  
+
+:black_square_button: 10800 컬러볼 : 작성중  
