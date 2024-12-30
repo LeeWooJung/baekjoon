@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class dfs {
+public class DepthFirstSearch {
 
     static int N;
     static int answer = 0;
